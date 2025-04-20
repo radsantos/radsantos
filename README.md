@@ -24,8 +24,8 @@
 
 ## 📈 GitHub Stats
 
-![Rogério's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogerioalmeida&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerioalmeida&layout=compact)
+![Rogério's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radsantos&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radsantos&layout=compact)
 
 ---
 
